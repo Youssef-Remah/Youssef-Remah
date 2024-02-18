@@ -13,17 +13,8 @@
 <h2 align="left">🤝 Connect With Me</h2>
 
 <div align="left">
-<a href="https://www.linkedin.com/in/youssef-remah-989598209/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
-</a>
-
-<a href="yremah8@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
-</a>
-
-
-<a href="youssef_remah2894">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
+<a href="https://www.linkedin.com/in/youssef-remah-989598209/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdafgdfgsdafgdf" height="50" width="50" />
 </a>
 </div>
 
@@ -65,7 +56,7 @@
 
 ###
 
-<h2 align="left">📈 Stats </h2>
+<h2 align="left">📈 GitHub Stats </h2>
 
 ###
 
