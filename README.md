@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5kNWZvdG5pZnQycmYyZmhzYmZhZHM5MHkxejJoamU4ODA2YTRmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="600" height="300"/>
 </div>
 
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hey 👋, I'm Youssef Remah</h1>
 
 ###
 
-<p align="left">My name is Youssef. Still working on this readme...</p>
+<p align="left">Senior Computer Science student passionate about mobile app development and eager to explore new technologies</p>
 
 ###
 
@@ -22,9 +22,31 @@
 
 <h2 align="left">👩‍💻 About me</h2>
 
+<div align="left">
+
+<ul>
+  
+  <li>📱 <strong>Mobile Application Enthusiast:</strong> Specializing in developing responsive and user-friendly mobile applications using React Native and Flutter.</li>
+
+  <br>
+  
+  <li>🌐 <strong>Exploring React.js:</strong> Actively learning React.js to kickstart my journey into frontend web development.</li>
+
+  <br>
+  
+  <li>🔨 <strong>Graduation Project:</strong> Focused on applying my accumulated knowledge to my graduation project.</li>
+
+  <br>
+  
+  <li>💼 <strong>Open to Collaboration:</strong> Excited about collaborating with fellow tech enthusiasts who share a vision for innovation and excellence.</li>
+
+</ul>
+
+</div>
+
 ###
 
-<h2 align="left">🛠 Languages and Frameworks</h2>
+<h2 align="left">🛠 Languages and Tools</h2>
 
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/>
@@ -62,6 +84,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Youssef-Remah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Remah&show_icons=true&theme=react" height="150" alt="languages graph"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Remah&layout=compact&theme=react" height="150" alt="languages graph"/>
   
 </div>
