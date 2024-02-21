@@ -90,4 +90,4 @@
   
 </div>
 
-![snake gif](https://github.com/Youssef-Remah/Youssef-Remah/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Youssef-Remah/Youssef-Remah/output/github-contribution-grid-snake.svg)
