@@ -30,10 +30,6 @@
 
   <br>
   
-  <li>🌐 <strong>Exploring React.js:</strong> Actively learning React.js to kickstart my journey into frontend web development.</li>
-
-  <br>
-  
   <li>🔨 <strong>Graduation Project:</strong> Focused on applying my accumulated knowledge to my graduation project.</li>
 
   <br>
