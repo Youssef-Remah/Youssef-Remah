@@ -32,10 +32,6 @@
   
   <li>🔨 <strong>Graduation Project:</strong> Focused on applying my accumulated knowledge to my graduation project.</li>
 
-  <br>
-  
-  <li>💼 <strong>Open to Collaboration:</strong> Excited about collaborating with fellow tech enthusiasts who share a vision for innovation and excellence.</li>
-
 </ul>
 
 </div>
