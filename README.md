@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Senior Computer Science student passionate about mobile app development and eager to explore new technologies</p>
+<p align="left">Senior Computer Science student passionate about mobile app development</p>
 
 ###
 
