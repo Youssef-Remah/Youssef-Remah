@@ -26,7 +26,7 @@
 
 <ul>
   
-  <li>📱 <strong>Mobile Application Enthusiast:</strong> Specializing in developing responsive and user-friendly mobile applications using React Native and Flutter.</li>
+  <li>📱 <strong>Mobile Application Enthusiast:</strong> Developing responsive and user-friendly mobile applications using React Native and Flutter.</li>
 
   <br>
   
