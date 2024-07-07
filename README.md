@@ -6,7 +6,10 @@
 
 ###
 
-<p align="left">Senior undergraduate computer science student passionate about mobile app development.</p>
+<p align="left">Junior software developer passionate about Backend Development.</p>
+
+- 🌱 Currently learning ASP.NET Core
+- 📧 Reach out to me at youssef.remah.mohamed@gmail.com
 
 ###
 
