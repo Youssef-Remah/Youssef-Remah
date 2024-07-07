@@ -58,6 +58,10 @@
 
   <img width="12"/>
 
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="DotNet logo"/>
+
+  <img width="12"/>
+
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" height="40" alt="Git logo"/>
 
   <img width="12"/>
