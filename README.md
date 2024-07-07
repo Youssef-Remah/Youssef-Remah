@@ -20,24 +20,6 @@
 
 ###
 
-<h2 align="left">👩‍💻 About me</h2>
-
-<div align="left">
-
-<ul>
-  
-  <li>📱 <strong>Mobile Application Enthusiast:</strong> Developing responsive and user-friendly mobile applications using React Native and Flutter.</li>
-
-  <br>
-  
-  <li>🔨 <strong>Graduation Project:</strong> Focused on applying my accumulated knowledge to my graduation project.</li>
-
-</ul>
-
-</div>
-
-###
-
 <h2 align="left">🛠 Languages and Tools</h2>
 
 <div align="left">
