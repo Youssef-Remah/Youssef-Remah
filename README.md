@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Junior software developer passionate about Backend Development.</p>
+<p align="left">Junior software developer passionate about Backend Development</p>
 
 - 🌱 Currently learning ASP.NET Core
 - 📧 Reach out to me at youssef.remah.mohamed@gmail.com
@@ -35,6 +35,10 @@
   <img width="12"/>
 
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dart/dart-original.svg" height="40" alt="Dart logo"/>
+  
+  <img width="12"/>
+
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" height="40" alt="Csharp logo"/>
 
   <img width="12"/>
 
@@ -47,6 +51,14 @@
   <img width="12"/>
 
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-original.svg" height="40" alt="Firebase logo"/>
+
+  <img width="12"/>
+
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"/>
+
+  <img width="12"/>
+
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" height="40" alt="Git logo"/>
 
   <img width="12"/>
 
