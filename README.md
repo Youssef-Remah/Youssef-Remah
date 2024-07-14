@@ -17,7 +17,7 @@
 
 <div align="left">
 <a href="https://www.linkedin.com/in/youssef-remah-989598209/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdafgdfgsdafgdf" height="50" width="50" />
+  <a href="https://www.linkedin.com/in/youssef-remah-989598209/" target="_blank"><img width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" /></a>
 </a>
 </div>
 
