@@ -71,6 +71,10 @@
   <img width="12"/>
 
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker logo"/>
+
+  <img width="12"/>
+
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-plain.svg" height="40" alt="Fast API logo"/>
 </div>
 
 ###
