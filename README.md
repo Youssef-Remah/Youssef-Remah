@@ -75,6 +75,10 @@
   <img width="12"/>
 
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-plain.svg" height="40" alt="Fast API logo"/>
+
+  <img width="12"/>
+
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" alt="MS SQL Server logo"/>
 </div>
 
 ###
