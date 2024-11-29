@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Junior software developer passionate about Backend Development</p>
+<p align="left">Junior software developer passionate about Backend Web Development</p>
 
 - 🌱 Currently learning ASP.NET Core
 - 📧 Reach out to me at youssef.remah.mohamed@gmail.com
