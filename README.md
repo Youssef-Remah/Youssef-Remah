@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5kNWZvdG5pZnQycmYyZmhzYmZhZHM5MHkxejJoamU4ODA2YTRmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="600" height="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B5bmczbmszdjJ2eTF3cm56YTI2ZHRqcWtybnp5MnBnbHJ6ZDk0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r1wGrCEZ4zTeU/giphy.gif" width="600" height="300"/>
 </div>
 
 <h1 align="left">Hey 👋, I'm Youssef</h1>
 
 ###
 
-<p align="left">Junior software developer passionate about Backend Web Development</p>
+<p align="left">Software developer passionate about Backend Web Development</p>
 
 - 🌱 Currently learning ASP.NET Core
 - 📧 Reach out to me at youssef.remah.mohamed@gmail.com
