@@ -61,6 +61,8 @@
 
 <div align="center">
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&pause=1020&color=1B6EC8&center=true&width=435&lines=One+Commit+Every+Day+Keeps+Unemployment+Away" alt="Typing SVG" /></a>
+
   <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Remah&show_icons=true&theme=react" height="150" alt="languages graph"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Remah&layout=compact&theme=react" height="150" alt="languages graph"/>
