@@ -31,6 +31,10 @@
 
 <img width="53" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
 
+<img width="53" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/html.png" alt="HTML" title="HTML"/>
+
+<img width="53" src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/css.png" alt="CSS" title="CSS"/>
+
 <img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 
 <img width="50" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart"/>
