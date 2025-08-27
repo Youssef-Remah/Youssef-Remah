@@ -6,9 +6,9 @@
 
 ###
 
-<p align="left">Software developer passionate about Backend Web Development</p>
+<p align="left">Software developer passionate about Full Stack Web Development</p>
 
-- 🌱 Currently learning ASP.NET Core
+- 🌱 Currently learning Angular
 - 📧 Reach out to me at youssef.remah.mohamed@gmail.com
 
 ###
@@ -70,5 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Remah&show_icons=true&theme=react" height="150" alt="languages graph"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Remah&layout=compact&theme=react" height="150" alt="languages graph"/>
+
+  <p>Note: My <b>Most used languages</b> are based on public code stats and don’t necessarily reflect my skill or experience.</p>
   
 </div>
