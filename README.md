@@ -35,11 +35,7 @@
 ###
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Remah&show_icons=true&theme=react" height="150" alt="languages graph"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Remah&layout=compact&theme=react" height="150" alt="languages graph"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Remah&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=57F287&icon_color=57F287&hide=Jupyter%20Notebook,Roff" height="192px">
 
   <p>Note: My <b>Most used languages</b> are based on public code stats and don’t necessarily reflect my skill or experience.</p>
-  
 </div>
