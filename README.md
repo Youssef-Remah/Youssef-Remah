@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Software developer passionate about Full Stack Web Development</p>
+<p align="left">Software developer passionate about Backend Web Development</p>
 
 - 📧 Reach out to me at youssef.remah.mohamed@gmail.com
 
